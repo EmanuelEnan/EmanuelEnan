@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelenan&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelenan" /> </p>
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Flutter, Node.js, MongoDB**
 
 - 💬 Ask me about **Mobile app development, Flutter**
 
